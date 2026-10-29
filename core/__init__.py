@@ -1,0 +1,1 @@
+"""Core xử lý XOR, khóa và định dạng file."""

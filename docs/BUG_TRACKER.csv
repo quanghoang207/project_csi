@@ -1,0 +1,6 @@
+id,priority,status,description,owner,verification
+XORT-001,high,open,Confirm cancellation during large-file processing leaves no temporary file,group,Manual 500 MiB GUI test
+XORT-002,high,open,Build and test the packaged executable on a clean Windows machine,group,PyInstaller distribution check
+XORT-003,medium,open,Run full pytest suite on Python 3.11 on two machines,group,Attach environment and test logs
+XORT-004,medium,open,Validate generated PNG JPEG PDF and ZIP with native viewers,group,Open each generated fixture
+XORT-005,medium,open,Attach measured breaker benchmark results and screenshots,group,Run analysis.benchmark and capture GUI
